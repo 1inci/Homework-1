@@ -1,4 +1,4 @@
-# Homeworks
+# Homework-1
 
 Bu repo Patika.dev C# 101 eğitiminde yaptığım ilk ödevdir.
 
